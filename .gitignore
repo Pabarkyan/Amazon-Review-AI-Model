@@ -1,3 +1,20 @@
-.env
-.vscode
+# Ignorar el entorno virtual
 venv/
+
+# Archivos y directorios comunes que no deberían estar en el repositorio
+*.pyc
+*.pyo
+__pycache__/
+*.log
+*.tmp
+
+# Archivos y carpetas de configuración del IDE
+.idea/
+.vscode/
+
+# Archivos de sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de entorno
+.env
