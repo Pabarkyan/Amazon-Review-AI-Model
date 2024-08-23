@@ -13,7 +13,7 @@ _Que cosas necesitas para instalar el software y como instalarlas_
 ## 1. Clona este repositorio
 
 ''
-`git clone ce.githttps://github.com/Pabarkyan/Amazon-Review-AI-Model.git`
+`git clone https://github.com/Pabarkyan/Amazon-Review-AI-Model.git`
 
 `cd [nombre del repo]`
 ''
